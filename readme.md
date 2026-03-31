@@ -101,9 +101,9 @@ Returns SVG image.
 ---
 ## Showcase
 
-![Badge](http://127.0.0.1:5000/card/torvalds)
-![Badge](http://127.0.0.1:5000/card/Dev-Nonsense0909688)
-![Badge](http://127.0.0.1:5000/card/deepseek-ai)
+![Badge](https://gitpulse-h9bx.onrender.com/card/torvalds)
+![Badge](https://gitpulse-h9bx.onrender.com/card/Dev-Nonsense0909688)
+![Badge](https://gitpulse-h9bx.onrender.com/card/deepseek-ai)
 ---
 
 ## 📁 Structure
