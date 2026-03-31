@@ -126,7 +126,9 @@ Returns a dynamically generated SVG badge.
 
 ![Preview](https://bishop-periodically-arizona-bench.trycloudflare.com/card/openclaw)
 
-![Preview](https://bishop-periodically-arizona-bench.trycloudflare.com/card/claude-ai)
+![Preview](https://bishop-periodically-arizona-bench.trycloudflare.com/card/anthropics)
+
+![Preview](https://bishop-periodically-arizona-bench.trycloudflare.com/card/auroralabsofficial)
 
 ---
 
