@@ -100,8 +100,12 @@ Returns SVG image.
 
 ---
 ## Showcase
-![Badge](https://bishop-periodically-arizona-bench.trycloudflare.com/card/deekseek-ai)
+![Badge](https://bishop-periodically-arizona-bench.trycloudflare.com/card/deepseek-ai)
+
 ![Badge](https://bishop-periodically-arizona-bench.trycloudflare.com/card/Dev-Nonsense0909688)
+
+![Badge](https://bishop-periodically-arizona-bench.trycloudflare.com/card/torvalds)
+
 ---
 
 ## 📁 Structure
