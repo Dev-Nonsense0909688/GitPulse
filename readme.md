@@ -100,7 +100,7 @@ Returns SVG image.
 
 ---
 ## Showcase
-
+![Badge](https://gitpulse-h9bx.onrender.com/card/Dev-Nonsense0909688)
 ![Badge](https://gitpulse-h9bx.onrender.com/card/deepseek-ai)
 ---
 
