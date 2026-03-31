@@ -1,32 +1,32 @@
-# 🚀 GitPulse
+# GitPulse
 
 > Turn your GitHub activity into a **clean, shareable developer badge** — fast, minimal, and actually useful.
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-API-000000?style=for-the-badge\&logo=flask)
-![Status](https://img.shields.io/badge/🚧_WIP-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/WIP-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/MIT-2ea44f?style=for-the-badge)
 
 ---
 
-## ✨ Features
+## Features
 
-* ⭐ GitHub stars tracking
-* 📦 Repository count
-* 📈 Commit activity tracking
-* 🔥 Streak detection
-* 🔀 Pull request count
-* 🏆 Developer score + grading system
-* 🎨 Dynamic SVG badge generation
-* ⚡ Fast response (threaded + cached)
+* GitHub stars tracking
+* Repository count
+* Commit activity tracking
+* Streak detection
+* Pull request count
+* Developer score + grading system
+* Dynamic SVG badge generation
+* Fast response (threaded + cached)
 
 ---
 
-## 🧠 What is GitPulse?
+## What is GitPulse?
 
 GitPulse is a lightweight API that transforms raw GitHub data into a **compact, visually clean SVG badge**.
 
@@ -38,7 +38,7 @@ Instead of just showing numbers, it highlights:
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Clone
 
@@ -81,7 +81,7 @@ http://127.0.0.1:6829/card/<username>
 
 ---
 
-## 📡 API Usage
+## API Usage
 
 Embed directly in your README:
 
@@ -91,15 +91,14 @@ Embed directly in your README:
 
 ---
 
-## 🧮 Scoring System
+## Scoring System
 
 GitPulse evaluates developer activity based on:
 
-* stars ⭐
-* forks 🍴
-* followers 👥
-* repositories 📦
-* activity 📈
+* stars 
+* forks 
+* repositories 
+* activity 
 
 | Score | Grade |
 | ----- | ----- |
@@ -112,7 +111,7 @@ GitPulse evaluates developer activity based on:
 
 ---
 
-## 🧩 Endpoint
+## Endpoint
 
 ```
 GET /card/<username>
@@ -122,7 +121,7 @@ Returns a dynamically generated SVG badge.
 
 ---
 
-## 🖼️ Showcase
+## Showcase
 
 ![Preview](https://bishop-periodically-arizona-bench.trycloudflare.com/card/openclaw)
 
@@ -132,7 +131,7 @@ Returns a dynamically generated SVG badge.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 github/
@@ -150,7 +149,7 @@ app.py
 
 ---
 
-## ⚠️ Notes
+## Notes
 
 * GitHub API rate limits apply
 * Pull request count is approximate
@@ -159,7 +158,7 @@ app.py
 
 ---
 
-## 🧠 Future Plans
+## Future Plans
 
 * [ ] Animated SVG badges
 * [ ] Contribution heatmap integration
@@ -168,7 +167,7 @@ app.py
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Have ideas or improvements?
 
