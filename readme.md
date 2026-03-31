@@ -100,8 +100,8 @@ Returns SVG image.
 
 ---
 ## Showcase
-![Badge](https://gitpulse-h9bx.onrender.com/card/Dev-Nonsense0909688)
-![Badge](https://gitpulse-h9bx.onrender.com/card/deepseek-ai)
+![Badge](https://bishop-periodically-arizona-bench.trycloudflare.com/card/deekseek-ai)
+![Badge](https://bishop-periodically-arizona-bench.trycloudflare.com/card/Dev-Nonsense0909688)
 ---
 
 ## 📁 Structure
