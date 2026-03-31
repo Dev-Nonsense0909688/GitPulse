@@ -70,6 +70,10 @@ http://127.0.0.1:5000/card/<username>
 
 ---
 
+## API Usage
+`![<name>](https://bishop-periodically-arizona-bench.trycloudflare.com/card/<username>)`
+---
+
 ## 🧮 Scoring System
 
 - stars ⭐  
@@ -101,11 +105,8 @@ Returns SVG image.
 ---
 
 ## Showcase
-![Badge](https://bishop-periodically-arizona-bench.trycloudflare.com/card/openai)
 
 ![Badge](https://bishop-periodically-arizona-bench.trycloudflare.com/card/openclaw)
-
-![Badge](https://bishop-periodically-arizona-bench.trycloudflare.com/card/Dev-Nonsense0909688)
 
 ---
 
