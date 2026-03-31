@@ -126,6 +126,8 @@ Returns a dynamically generated SVG badge.
 
 ![Preview](https://bishop-periodically-arizona-bench.trycloudflare.com/card/openclaw)
 
+![Preview](https://bishop-periodically-arizona-bench.trycloudflare.com/card/Dev-Nonsense0909688)
+
 ---
 
 ## 📁 Project Structure
