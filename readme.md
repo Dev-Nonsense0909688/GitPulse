@@ -103,6 +103,8 @@ Returns SVG image.
 ## Showcase
 ![Badge](https://bishop-periodically-arizona-bench.trycloudflare.com/card/openai)
 
+![Badge](https://bishop-periodically-arizona-bench.trycloudflare.com/card/Dev-Nonsense0909688)
+
 ---
 
 ## 📁 Structure
