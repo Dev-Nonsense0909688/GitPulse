@@ -146,6 +146,9 @@ app.py
 
 ## 🤝 Contributing
 
-Pull requests are welcome.
+Got ideas? Found a bug? Wanna improve something?
+Feel free to open an issue or drop a pull request — all contributions are welcome.
+Even small suggestions help make this better 🚀
+
 
 
