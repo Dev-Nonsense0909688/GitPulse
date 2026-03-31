@@ -71,7 +71,11 @@ http://127.0.0.1:5000/card/<username>
 ---
 
 ## API Usage
-`![<name>](https://bishop-periodically-arizona-bench.trycloudflare.com/card/<username>)`
+
+```bash
+![<name>](https://bishop-periodically-arizona-bench.trycloudflare.com/card/<username>)
+```
+
 ---
 
 ## 🧮 Scoring System
