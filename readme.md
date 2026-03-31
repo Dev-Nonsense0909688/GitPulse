@@ -1,9 +1,12 @@
 # 🚀 GitPulse
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-Backend-black?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Work_in_Progress-yellow?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=yellow)
+![Flask](https://img.shields.io/badge/Flask-Backend-black?style=for-the-badge&logo=flask&logoColor=white)
+![Status](https://img.shields.io/badge/Status-WIP-orange?style=for-the-badge&logo=githubactions&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=open-source-initiative&logoColor=white)
+![GitHub repo size](https://img.shields.io/github/repo-size/Dev-Nonsense0909688/GitPulse?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Dev-Nonsense0909688/GitPulse?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/Dev-Nonsense0909688/GitPulse?style=for-the-badge)
 
 > Turn your GitHub activity into a clean, shareable developer badge.
 
