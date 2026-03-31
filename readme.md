@@ -128,7 +128,7 @@ Returns a dynamically generated SVG badge.
 
 ![Preview](https://bishop-periodically-arizona-bench.trycloudflare.com/card/anthropics)
 
-![Preview](https://bishop-periodically-arizona-bench.trycloudflare.com/card/Dev-Nonsense0909688)
+![Badge](https://bishop-periodically-arizona-bench.trycloudflare.com/card/Dev-Nonsense0909688?v=5)
 
 ---
 
