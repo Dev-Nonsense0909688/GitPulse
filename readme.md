@@ -10,7 +10,7 @@
 ![Flask](https://img.shields.io/badge/Flask-API-000000?style=for-the-badge\&logo=flask)
 ![Status](https://img.shields.io/badge/WIP-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/MIT-2ea44f?style=for-the-badge)
-
+![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/deep/Dev-Nonsense0909688)
 ---
 
 ## Features
