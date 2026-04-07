@@ -10,7 +10,6 @@
 ![Flask](https://img.shields.io/badge/Flask-API-000000?style=for-the-badge\&logo=flask)
 ![Status](https://img.shields.io/badge/WIP-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/MIT-2ea44f?style=for-the-badge)
-![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/deep/Dev-Nonsense0909688)
 ---
 
 ## Features
@@ -123,11 +122,21 @@ Returns a dynamically generated SVG badge.
 
 ## Showcase
 
-![Preview](https://bishop-periodically-arizona-bench.trycloudflare.com/card/openclaw)
+![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/deep/Dev-Nonsense0909688)
+![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/streak/Dev-Nonsense0909688)
+![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/builder/Dev-Nonsense0909688)
+![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/owl/Dev-Nonsense0909688)
+![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/commit/Dev-Nonsense0909688)
 
-![Preview](https://bishop-periodically-arizona-bench.trycloudflare.com/card/anthropics)
+---
 
-![Badge](https://bishop-periodically-arizona-bench.trycloudflare.com/card/Dev-Nonsense0909688?v=5)
+![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/deep/torvalds)
+![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/streak/torvalds)
+![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/builder/torvalds)
+![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/owl/torvalds)
+![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/commit/torvalds)
+
+
 
 ---
 
