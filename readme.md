@@ -122,6 +122,8 @@ Returns a dynamically generated SVG badge.
 
 ## Showcase
 
+### Username: Dev-Nonsense0909688 
+
 ![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/deep/Dev-Nonsense0909688)
 ![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/streak/Dev-Nonsense0909688)
 ![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/builder/Dev-Nonsense0909688)
@@ -129,6 +131,8 @@ Returns a dynamically generated SVG badge.
 ![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/commit/Dev-Nonsense0909688)
 
 ---
+
+### Username: torvalds
 
 ![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/deep/torvalds)
 ![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/streak/torvalds)
