@@ -124,21 +124,21 @@ Returns a dynamically generated SVG badge.
 
 ### Username: Dev-Nonsense0909688 
 
-![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/deep/Dev-Nonsense0909688)
-![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/streak/Dev-Nonsense0909688)
-![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/builder/Dev-Nonsense0909688)
-![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/owl/Dev-Nonsense0909688)
-![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/commit/Dev-Nonsense0909688)
+![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/deep/Dev-Nonsense0909688?v=1)
+![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/streak/Dev-Nonsense0909688?v=1)
+![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/builder/Dev-Nonsense0909688?v=1)
+![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/owl/Dev-Nonsense0909688?v=1)
+![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/commit/Dev-Nonsense0909688?v=1)
 
 ---
 
 ### Username: torvalds
 
-![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/deep/torvalds)
-![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/streak/torvalds)
-![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/builder/torvalds)
-![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/owl/torvalds)
-![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/commit/torvalds)
+![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/deep/torvalds?v=1)
+![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/streak/torvalds?v=1)
+![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/builder/torvalds?v=1)
+![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/owl/torvalds?v=1)
+![GitPulse](https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/commit/torvalds?v=1)
 
 
 
