@@ -65,7 +65,7 @@ https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/<typ
 
 ## Future Plans
 
-* [ ] Animated SVG badges
+* [x] Animated SVG badges
 * [ ] GraphQL optimization
 * [ ] Try not to use cloudflare
 ---
