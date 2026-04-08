@@ -5,7 +5,7 @@ Generate dynamic badges for any GitHub user using this API.
 ### Basic Format
 
 ```
-https://your-api/badge/<type>/<username>
+https://champagne-instrumental-mechanism-generators.trycloudflare.com/badge/<type>/<username>
 ```
 
 ---
@@ -13,7 +13,7 @@ https://your-api/badge/<type>/<username>
 ### Example
 
 ```
-![GitPulse](https://your-api/badge/deep/Dev-Nonsense0909688)
+![GitPulse](https:/champagne-instrumental-mechanism-generators.trycloudflare.com/badge/deep/Dev-Nonsense0909688)
 ```
 
 ---
